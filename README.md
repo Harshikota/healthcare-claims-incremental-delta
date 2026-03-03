@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # 🏥 Healthcare Claims Incremental ELT Pipeline  
 ### Azure Data Factory | ADLS Gen2 | Databricks | PySpark | Delta Lake
 
 ---
 
 ## 📌 Project Overview
+=======
+🏥 Healthcare Claims Incremental ELT Pipeline  
+ Azure Data Factory | ADLS Gen2 | Databricks | PySpark | Delta Lake
+
+---
+ 📌 Project Overview
+>>>>>>> 72ae9f9fa1e36df3fbf55a8ea2c3b597afdc2dd4
 
 This project demonstrates an end-to-end incremental ELT pipeline for processing healthcare claims using modern Azure data engineering architecture.
 
@@ -200,4 +208,8 @@ This project demonstrates:
 ## 👩‍💻 Author
 
 Harshitha  
+<<<<<<< HEAD
 Azure Data Engineer  
+=======
+Azure Data Engineer  
+>>>>>>> 72ae9f9fa1e36df3fbf55a8ea2c3b597afdc2dd4
